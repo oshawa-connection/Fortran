@@ -1,0 +1,3 @@
+&inputs
+	Pr = 1.0, nx =257, ny =65 , rayleigh=10000.0, totaltime=1.0, kappa =1.0, a_adv= 0.2, a_dif = 0.1,beta=1.0/		 
+/
